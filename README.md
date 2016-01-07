@@ -1,2 +1,2 @@
-# IFI
-I-Fi: AI Driven Wireless Technology Selection
+# WirelessSensorNetworks
+Wireless Sensor Networks iFI Project

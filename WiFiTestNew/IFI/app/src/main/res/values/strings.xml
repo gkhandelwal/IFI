@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IFi</string>
+    <string name="action_settings">Settings</string>
+    <string name="m_mode">Toggle Skeptical</string>
+    <string name="cap">Toggle Capture</string>
+    <string name="interval">Mark Interval</string>
+    <string name="s_mode">(Skeptic...)</string>
+</resources>
